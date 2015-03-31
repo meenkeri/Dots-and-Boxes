@@ -759,6 +759,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/which/which.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/test/which.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/cordova/node_modules/which/bin/which" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/test/resources/cp/dir_a/z" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/test/resources/cp/dir_b/dir_b_a/dir_b_a_a/z" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/test/resources/ls/a_dir/b_dir/z" />
